@@ -33,4 +33,9 @@ html
   - 8 : Node.COMMENT_NODE -> 주석 
   - 9 : Node.DOCUMENT_NODE -> Document
   - 10 : Node.DOCUMENT_TYPE_NODE -> DOCTYPE 
-  - 11 : Node.DOCUMENT_FRAGMENT_NODE -> Document Fragment 
+  - 11 : Node.DOCUMENT_FRAGMENT_NODE -> Document Fragment
+ 
+  - ![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/615cf0f5-c668-4cd0-9c84-eb0200c87abc)
+ 
+  - ![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/1668c553-653e-4604-9074-aeb311edbd57)
+
