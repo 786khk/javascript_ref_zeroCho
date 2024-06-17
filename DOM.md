@@ -60,7 +60,9 @@ html
 ### 태그.previousSibling, 태그.nextSibling, 태그.previousElementSibling, 태그.nextElementSibling
 - 형제, 자매 노드 찾을 때 사용
 - ~ Sibilling 은 텍스트 노드 무시
-### 태그.innerHTML, 태그.outerHTML
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/444b08af-9e32-4213-b5e7-435604a346cd)
+
+### 태그.innerHTML, 태그.outerHTMLF
 - 선택한 태그의 내용을 얻어오거나 바꿀 수 있음
 ```javascript
 
@@ -70,4 +72,5 @@ footer.innerHTML = 'goodbye';
 
 ```
 ![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/07fdb862-549a-4d18-a6d1-0bc42219ba16)
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/600d3334-d628-437a-932a-1106212c62d6)
 
