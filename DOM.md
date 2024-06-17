@@ -83,12 +83,15 @@ footer.innerHTML = 'goodbye';
 #### 태그.attributes
 - 해당 태그가 가진 모든 속성을 보고싶다면 attributes 속성을 사용
 
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/5c8d47fc-ca7e-4161-8e01-123763aba185)
+
 #### 태그.scrollHeight, 태그.scrollWidth
 - 스크롤이 가능한 범위까지 포함한 태그 높이와 너비 반환
 #### 태그.offsetHeight, 태그.offsetWidth
 - 태그의 마진(margin)만 제외한 높이와 너비 반환
 #### 태그.clientHeight, 태그.clientWidth
 - 태그의 margin, border, scrollbar 를 제외한 높이 반환
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/d7302c70-0eba-452e-abc5-9887f12fac0b)
 
 
 ### 메서드
