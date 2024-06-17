@@ -90,3 +90,9 @@ footer.innerHTML = 'goodbye';
 #### 태그.clientHeight, 태그.clientWidth
 - 태그의 margin, border, scrollbar 를 제외한 높이 반환
 
+
+### 메서드
+#### 태그.appendChild
+- 마시막 순서의 자식으로 태그 추가
+#### 태그.removeChild
+- 선택한 자식 태그 삭제
