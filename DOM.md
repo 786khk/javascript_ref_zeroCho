@@ -97,5 +97,11 @@ footer.innerHTML = 'goodbye';
 ### 메서드
 #### 태그.appendChild
 - 마시막 순서의 자식으로 태그 추가
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/02802836-94e7-470b-8dac-44b0135b4ebf)
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/8e0b4fd7-db72-4320-830d-d331f5526c1a)
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/aaa1edad-3e01-4f13-9ae9-18622701d6ee)
+
+
 #### 태그.removeChild
 - 선택한 자식 태그 삭제
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/1c6751c1-ca69-4e74-b2f4-226cac1fc6ae)
