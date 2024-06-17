@@ -110,5 +110,8 @@ footer.innerHTML = 'goodbye';
 #### 태그.insertBefore
 - appendChild가 마지막 차식을 추가하는것이라면 insertBefore는 마지막 형제를 추가
 - `document.getElementById("myId").insertBefore(넣을 태그, 기준태그)`로 사용
+
+- ![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/bc237fe1-2837-4bd5-81a7-4bee5917ab5b)
+
 #### 태그.cloneNode
 - 자신을 복제(복사) 복사한 것을 저장해 appendChild나 insertBefore로 넣을 수 있음
