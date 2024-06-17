@@ -74,3 +74,19 @@ footer.innerHTML = 'goodbye';
 ![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/07fdb862-549a-4d18-a6d1-0bc42219ba16)
 ![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/600d3334-d628-437a-932a-1106212c62d6)
 
+
+### 속성
+- 선택자로 태그를 선택하고 속성을 조회, 수정할 수 있음.
+- `id, className, name, value, placeHolder, checked, disabled, readonly` ...
+
+
+#### 태그.attributes
+- 해당 태그가 가진 모든 속성을 보고싶다면 attributes 속성을 사용
+
+#### 태그.scrollHeight, 태그.scrollWidth
+- 스크롤이 가능한 범위까지 포함한 태그 높이와 너비 반환
+#### 태그.offsetHeight, 태그.offsetWidth
+- 태그의 마진(margin)만 제외한 높이와 너비 반환
+#### 태그.clientHeight, 태그.clientWidth
+- 태그의 margin, border, scrollbar 를 제외한 높이 반환
+
