@@ -65,3 +65,5 @@ footer.innerHTML; // 'hello'
 footer.innerHTML = 'goodbye';
 
 ```
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/07fdb862-549a-4d18-a6d1-0bc42219ba16)
+
