@@ -50,6 +50,10 @@ html
 ### 태그.firstChild, 태그.firstElementChild, 태그.lastChild, 태그.lastElementChild
 - 첫번째 자식만 선택 또는 마지막 자식만 선택할 때 사영
 - fist~ last~같은 역할을 하지만 element속성이므로 텍스트 노드는 무시
+
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/5572c549-ca2e-4b8b-a26f-3df7c817d8b6)
+![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/48383635-57f1-4a45-be7c-f7e72b6cb249)
+
 ### 태그.parentNode, 태그.parentElement
 - 부모를 찾을 때 parentNode속성을 사용
 - 자식은 childrens지만 부모는 한명이기에 parnet단수로 사용
