@@ -33,8 +33,14 @@ let now = new Date();
 - 제로베이스
 
 ## 날짜.toString(), 날짜.toLocaleString(), 날짜.toUTCString()
-
+- 날짜를 문자로 바꿔 표현
 ![image](https://github.com/786khk/javascript_ref_zeroCho/assets/78067072/b58a63c3-6b88-43b9-b6f5-0b68e99d59a1)
 
 
 
+``` javascript
+now.toLocaleString() //'2024. 6. 18. 오전 10:20:45'
+now.toLocaleDateString() //'2024. 6. 18.'
+now.toUTCString() //'Tue, 18 Jun 2024 01:20:45 GMT'
+
+```
