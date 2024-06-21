@@ -44,3 +44,4 @@ now.toLocaleDateString() //'2024. 6. 18.'
 now.toUTCString() //'Tue, 18 Jun 2024 01:20:45 GMT'
 
 ```
+
